@@ -1,5 +1,4 @@
 # SmartMedInterview
-Here’s a README file for the Pet Store API Testing project, including step-by-step instructions for setup, installation, and running tests.
 
 Pet Store API Testing Project
 
